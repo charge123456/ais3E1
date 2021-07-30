@@ -2,6 +2,7 @@ from flask import Flask, request, render_template
 from shodan import Shodan
 from nslookup import Nslookup
 import json
+import ipaddress
 app = Flask(__name__)
 
 
@@ -12,12 +13,22 @@ def index():
 
 @app.route('/find_ip', methods=['GET', 'POST'])
 def find_ip():
-    with open('ip-ranges.json') as f:
-        data = json.load(f)
-    print(type(data))
-    for i in range(0, 255):
-        print(data['prefixes'][i]['ip_prefix'], data['prefixes'][i]['service'])
-    return 'ok'
+    if request.method == 'POST':
+        a = request.form.get('ip')
+        print(a)
+        with open('ip-ranges.json') as f:
+            data = json.load(f)
+
+        ip_range = []
+        for i in range(0, len(data['prefixes'])):
+            ip_range.append(data['prefixes'][i]['ip_prefix'])
+        for j in range(0, len(ip_range)):
+            if a == ipaddress.IPv4Network(ip_range[j]):
+                print(ip_range[j])
+                print(data['prefixes'][j]['service'])
+        else:
+            print('NO cloud')
+            return render_template('findservice.html')
 
 
 @app.route('/shodan', methods=['GET', 'POST'])
