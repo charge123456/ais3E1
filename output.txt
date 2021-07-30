@@ -1,0 +1,349 @@
+
+
+#### CLOUD_ENUM 31/07/2021 01:37:49 ####
+
+
+#### CLOUD_ENUM 31/07/2021 01:38:10 ####
+
+
+#### CLOUD_ENUM 31/07/2021 01:38:25 ####
+Protected S3 Bucket: http://setup.s3.amazonaws.com/
+Protected S3 Bucket: http://setup01.s3.amazonaws.com/
+OPEN S3 BUCKET: http://setup1.s3.amazonaws.com/
+FILES:
+->http://setup1.s3.amazonaws.com/setup1
+Protected S3 Bucket: http://setup2014.s3.amazonaws.com/
+OPEN S3 BUCKET: http://admin-setup.s3.amazonaws.com/
+FILES:
+->http://admin-setup.s3.amazonaws.com/admin-setup
+->http://admin-setup.s3.amazonaws.com/cvdl20161023.zip
+->http://admin-setup.s3.amazonaws.com/mt4admin.exe
+->http://admin-setup.s3.amazonaws.com/mt4manager.exe
+Protected S3 Bucket: http://setup-android.s3.amazonaws.com/
+Protected S3 Bucket: http://api.setup.s3.amazonaws.com/
+Protected S3 Bucket: http://app-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://setup-assets.s3.amazonaws.com/
+Protected S3 Bucket: http://awssetup.s3.amazonaws.com/
+Protected S3 Bucket: http://aws.setup.s3.amazonaws.com/
+Protected S3 Bucket: http://aws-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://setupbackup.s3.amazonaws.com/
+Protected S3 Bucket: http://setup-backup.s3.amazonaws.com/
+Protected S3 Bucket: http://bamboo-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://betasetup.s3.amazonaws.com/
+Protected S3 Bucket: http://billing-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://blogsetup.s3.amazonaws.com/
+Protected S3 Bucket: http://setupbucket.s3.amazonaws.com/
+Protected S3 Bucket: http://setup-bucket.s3.amazonaws.com/
+Protected S3 Bucket: http://cachesetup.s3.amazonaws.com/
+Protected S3 Bucket: http://setup-cdn.s3.amazonaws.com/
+Protected S3 Bucket: http://cdnsetup.s3.amazonaws.com/
+Protected S3 Bucket: http://cloudsetup.s3.amazonaws.com/
+Protected S3 Bucket: http://cloud-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://clustersetup.s3.amazonaws.com/
+Protected S3 Bucket: http://cluster-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://container-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://coresetup.s3.amazonaws.com/
+Protected S3 Bucket: http://corp-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://setupdata.s3.amazonaws.com/
+Protected S3 Bucket: http://setup-data.s3.amazonaws.com/
+Protected S3 Bucket: http://databasesetup.s3.amazonaws.com/
+Protected S3 Bucket: http://database-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://setup-db.s3.amazonaws.com/
+Protected S3 Bucket: http://db-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://setup-dev.s3.amazonaws.com/
+Protected S3 Bucket: http://devsetup.s3.amazonaws.com/
+Protected S3 Bucket: http://dev-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://developer-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://development-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://devops-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://dnssetup.s3.amazonaws.com/
+Protected S3 Bucket: http://dockersetup.s3.amazonaws.com/
+Protected S3 Bucket: http://docker-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://setupdocs.s3.amazonaws.com/
+Protected S3 Bucket: http://setup-docs.s3.amazonaws.com/
+OPEN S3 BUCKET: http://setupdownloads.s3.amazonaws.com/
+FILES:
+->http://setupdownloads.s3.amazonaws.com/setupdownloads
+Protected S3 Bucket: http://ec2setup.s3.amazonaws.com/
+Protected S3 Bucket: http://ec2-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://setupfiles.s3.amazonaws.com/
+Protected S3 Bucket: http://setup-files.s3.amazonaws.com/
+Protected S3 Bucket: http://gateway-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://gitsetup.s3.amazonaws.com/
+Protected S3 Bucket: http://github-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://helpsetup.s3.amazonaws.com/
+OPEN S3 BUCKET: http://setupimages.s3.amazonaws.com/
+FILES:
+->http://setupimages.s3.amazonaws.com/setupimages
+->http://setupimages.s3.amazonaws.com/BebasNeue-webfont.ttf
+->http://setupimages.s3.amazonaws.com/BebasNeue-webfont.woff
+->http://setupimages.s3.amazonaws.com/BlueDucks_FourFlossFiveSix.mp3
+->http://setupimages.s3.amazonaws.com/BlueDucks_FourFlossFiveSix.ogg
+->http://setupimages.s3.amazonaws.com/BlueDucks_FourFlossFiveSix.wav
+->http://setupimages.s3.amazonaws.com/Button-MultiSelect.png
+->http://setupimages.s3.amazonaws.com/Carousal.jpeg
+->http://setupimages.s3.amazonaws.com/Cart.png
+->http://setupimages.s3.amazonaws.com/Conjoint2.png
+->http://setupimages.s3.amazonaws.com/Dropdown.jpg
+->http://setupimages.s3.amazonaws.com/Dropdown1.jpg
+->http://setupimages.s3.amazonaws.com/EmotionSlider.png
+->http://setupimages.s3.amazonaws.com/Flipper.png
+->http://setupimages.s3.amazonaws.com/Fragrance.jpg
+->http://setupimages.s3.amazonaws.com/Fragrance2.jpg
+->http://setupimages.s3.amazonaws.com/Grid1.png
+->http://setupimages.s3.amazonaws.com/Grid2.png
+->http://setupimages.s3.amazonaws.com/Image1Zoom.jpg
+->http://setupimages.s3.amazonaws.com/Image2Zoom.jpg
+->http://setupimages.s3.amazonaws.com/Image3Zoom.jpg
+->http://setupimages.s3.amazonaws.com/Indexdemo.css
+->http://setupimages.s3.amazonaws.com/Indexstyle.css
+->http://setupimages.s3.amazonaws.com/Inginit_logo.jpg
+->http://setupimages.s3.amazonaws.com/Map.png
+->http://setupimages.s3.amazonaws.com/Misc.png
+->http://setupimages.s3.amazonaws.com/MultiButton.jpg
+->http://setupimages.s3.amazonaws.com/Neutralface.png
+->http://setupimages.s3.amazonaws.com/Numeric.png
+->http://setupimages.s3.amazonaws.com/PageTimer.png
+->http://setupimages.s3.amazonaws.com/Radio3.png
+->http://setupimages.s3.amazonaws.com/Ranking.jpeg
+->http://setupimages.s3.amazonaws.com/Sadface.png
+->http://setupimages.s3.amazonaws.com/Speechbubble.jpg
+->http://setupimages.s3.amazonaws.com/Star.png
+->http://setupimages.s3.amazonaws.com/Swsadface.png
+->http://setupimages.s3.amazonaws.com/TestClip.mp4
+->http://setupimages.s3.amazonaws.com/TestClip.ogv
+->http://setupimages.s3.amazonaws.com/Themechanger.jpg
+->http://setupimages.s3.amazonaws.com/Vhappyface.png
+->http://setupimages.s3.amazonaws.com/Video-player.png
+->http://setupimages.s3.amazonaws.com/Videoplayer-Poster.png
+->http://setupimages.s3.amazonaws.com/Zoomer.png
+->http://setupimages.s3.amazonaws.com/audio-player.png
+->http://setupimages.s3.amazonaws.com/audioplayer.js
+->http://setupimages.s3.amazonaws.com/bigbottle.png
+->http://setupimages.s3.amazonaws.com/bubbles-speech.png
+->http://setupimages.s3.amazonaws.com/chart-icon.png
+->http://setupimages.s3.amazonaws.com/checkbox1.jpg
+->http://setupimages.s3.amazonaws.com/checkbox2.png
+->http://setupimages.s3.amazonaws.com/codropsicons.eot
+->http://setupimages.s3.amazonaws.com/comparison.png
+->http://setupimages.s3.amazonaws.com/component.css
+->http://setupimages.s3.amazonaws.com/default.css
+->http://setupimages.s3.amazonaws.com/dropdown2.png
+->http://setupimages.s3.amazonaws.com/happyface.png
+->http://setupimages.s3.amazonaws.com/marker.jpg
+->http://setupimages.s3.amazonaws.com/maxdiff.png
+->http://setupimages.s3.amazonaws.com/nlform.js
+->http://setupimages.s3.amazonaws.com/nlicons.eot
+->http://setupimages.s3.amazonaws.com/nlicons.ttf
+->http://setupimages.s3.amazonaws.com/nlicons.woff
+->http://setupimages.s3.amazonaws.com/noise.png
+->http://setupimages.s3.amazonaws.com/pin.png
+->http://setupimages.s3.amazonaws.com/pin2.png
+->http://setupimages.s3.amazonaws.com/popcorn.png
+->http://setupimages.s3.amazonaws.com/radio.png
+->http://setupimages.s3.amazonaws.com/radio1.png
+->http://setupimages.s3.amazonaws.com/radio2.png
+->http://setupimages.s3.amazonaws.com/reports.png
+->http://setupimages.s3.amazonaws.com/ruler_bg.png
+->http://setupimages.s3.amazonaws.com/slider.png
+->http://setupimages.s3.amazonaws.com/smallapple.png
+->http://setupimages.s3.amazonaws.com/smallcandy.png
+->http://setupimages.s3.amazonaws.com/smallcherry.png
+->http://setupimages.s3.amazonaws.com/smallcupcake.png
+->http://setupimages.s3.amazonaws.com/smallgrape.png
+->http://setupimages.s3.amazonaws.com/smalllovestroberry.png
+->http://setupimages.s3.amazonaws.com/smalllovesweet.png
+->http://setupimages.s3.amazonaws.com/style7.css
+->http://setupimages.s3.amazonaws.com/uploader.png
+->http://setupimages.s3.amazonaws.com/video-annotations.png
+Protected S3 Bucket: http://setup-images.s3.amazonaws.com/
+Protected S3 Bucket: http://setupimg.s3.amazonaws.com/
+Protected S3 Bucket: http://infrasetup.s3.amazonaws.com/
+Protected S3 Bucket: http://infra-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://iotsetup.s3.amazonaws.com/
+Protected S3 Bucket: http://mediasetup.s3.amazonaws.com/
+Protected S3 Bucket: http://mlsetup.s3.amazonaws.com/
+Protected S3 Bucket: http://mysqlsetup.s3.amazonaws.com/
+Protected S3 Bucket: http://mysql-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://private-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://prodsetup.s3.amazonaws.com/
+Protected S3 Bucket: http://prod-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://productssetup.s3.amazonaws.com/
+Protected S3 Bucket: http://projectsetup.s3.amazonaws.com/
+Protected S3 Bucket: http://project-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://qasetup.s3.amazonaws.com/
+Protected S3 Bucket: http://setup.repo.s3.amazonaws.com/
+Protected S3 Bucket: http://setupresources.s3.amazonaws.com/
+Protected S3 Bucket: http://setupscripts.s3.amazonaws.com/
+Protected S3 Bucket: http://setup.scripts.s3.amazonaws.com/
+Protected S3 Bucket: http://setup-scripts.s3.amazonaws.com/
+Protected S3 Bucket: http://security-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://setup-share.s3.amazonaws.com/
+Protected S3 Bucket: http://shared-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://setupshop.s3.amazonaws.com/
+Protected S3 Bucket: http://setupsource.s3.amazonaws.com/
+Protected S3 Bucket: http://setup-source.s3.amazonaws.com/
+Protected S3 Bucket: http://splunksetup.s3.amazonaws.com/
+Protected S3 Bucket: http://splunk-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://sqlsetup.s3.amazonaws.com/
+Protected S3 Bucket: http://stage-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://setup-storage.s3.amazonaws.com/
+OPEN S3 BUCKET: http://storesetup.s3.amazonaws.com/
+FILES:
+->http://storesetup.s3.amazonaws.com/storesetup
+->http://storesetup.s3.amazonaws.com/Logistics_Docs.zip
+->http://storesetup.s3.amazonaws.com/Payment_Gateway_Docs.zip
+Protected S3 Bucket: http://setup-temp.s3.amazonaws.com/
+Protected S3 Bucket: http://temp-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://setup.templates.s3.amazonaws.com/
+Protected S3 Bucket: http://setup-templates.s3.amazonaws.com/
+Protected S3 Bucket: http://terraformsetup.s3.amazonaws.com/
+Protected S3 Bucket: http://terraform-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://setuptest.s3.amazonaws.com/
+Protected S3 Bucket: http://setup-test.s3.amazonaws.com/
+Protected S3 Bucket: http://testsetup.s3.amazonaws.com/
+Protected S3 Bucket: http://test-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://tmp-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://trainingsetup.s3.amazonaws.com/
+Protected S3 Bucket: http://travis-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://setup-uploads.s3.amazonaws.com/
+Protected S3 Bucket: http://setupvm.s3.amazonaws.com/
+Protected S3 Bucket: http://vmsetup.s3.amazonaws.com/
+Protected S3 Bucket: http://setupweb.s3.amazonaws.com/
+Protected S3 Bucket: http://setupwebsite.s3.amazonaws.com/
+Protected S3 Bucket: http://websitesetup.s3.amazonaws.com/
+Protected S3 Bucket: http://setupwp.s3.amazonaws.com/
+Protected S3 Bucket: http://wpsetup.s3.amazonaws.com/
+Protected S3 Bucket: http://wp-setup.s3.amazonaws.com/
+Protected S3 Bucket: http://auth.s3.amazonaws.com/
+Protected S3 Bucket: http://auth0.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-0.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-01.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-2020.s3.amazonaws.com/
+Protected S3 Bucket: http://auth4.s3.amazonaws.com/
+Protected S3 Bucket: http://androidauth.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-api.s3.amazonaws.com/
+Protected S3 Bucket: http://apiauth.s3.amazonaws.com/
+Protected S3 Bucket: http://api-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://authapp.s3.amazonaws.com/
+Protected S3 Bucket: http://auth.app.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-app.s3.amazonaws.com/
+Protected S3 Bucket: http://appauth.s3.amazonaws.com/
+Protected S3 Bucket: http://app-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-archive.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-artifacts.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-assets.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-audit.s3.amazonaws.com/
+Protected S3 Bucket: http://awsauth.s3.amazonaws.com/
+Protected S3 Bucket: http://aws-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://backup-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://authbackups.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-backups.s3.amazonaws.com/
+OPEN S3 BUCKET: http://auth.bucket.s3.amazonaws.com/
+FILES:
+->http://auth.bucket.s3.amazonaws.com/auth.bucket
+->http://auth.bucket.s3.amazonaws.com/changePassword.html
+->http://auth.bucket.s3.amazonaws.com/changePasswordCompany.html
+->http://auth.bucket.s3.amazonaws.com/companyLostPassword.html
+->http://auth.bucket.s3.amazonaws.com/images/
+->http://auth.bucket.s3.amazonaws.com/images/logoSandbox152blueRed.png
+->http://auth.bucket.s3.amazonaws.com/images/mainImage.jpg
+->http://auth.bucket.s3.amazonaws.com/index.html
+->http://auth.bucket.s3.amazonaws.com/jpsupport.js
+->http://auth.bucket.s3.amazonaws.com/login.html
+->http://auth.bucket.s3.amazonaws.com/loginCompany.html
+->http://auth.bucket.s3.amazonaws.com/lostPassword.html
+->http://auth.bucket.s3.amazonaws.com/lostPasswordCompany.html
+->http://auth.bucket.s3.amazonaws.com/reset.html
+->http://auth.bucket.s3.amazonaws.com/resetCompany.html
+->http://auth.bucket.s3.amazonaws.com/signup.html
+->http://auth.bucket.s3.amazonaws.com/signupCompany.html
+->http://auth.bucket.s3.amazonaws.com/style.css
+->http://auth.bucket.s3.amazonaws.com/verify.html
+->http://auth.bucket.s3.amazonaws.com/verifyCompany.html
+->http://auth.bucket.s3.amazonaws.com/verifyUsers.html
+->http://auth.bucket.s3.amazonaws.com/verifycpuser.html
+Protected S3 Bucket: http://auth-bucket.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-build.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-cdn.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-cf.s3.amazonaws.com/
+Protected S3 Bucket: http://cfauth.s3.amazonaws.com/
+Protected S3 Bucket: http://cf-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-cloud.s3.amazonaws.com/
+Protected S3 Bucket: http://cloudauth.s3.amazonaws.com/
+Protected S3 Bucket: http://cloud-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://common-auth.s3.amazonaws.com/
+OPEN S3 BUCKET: http://authcontent.s3.amazonaws.com/
+FILES:
+->http://authcontent.s3.amazonaws.com/authcontent
+->http://authcontent.s3.amazonaws.com/maptoAEP/ASIN_map_template.html
+->http://authcontent.s3.amazonaws.com/maptoAEP/mapAEP_instructions.html
+->http://authcontent.s3.amazonaws.com/maptoAEP/mapAEP_tips.html
+->http://authcontent.s3.amazonaws.com/maptoAEP_$folder$
+Protected S3 Bucket: http://auth-content.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-core.s3.amazonaws.com/
+Protected S3 Bucket: http://coreauth.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-data.s3.amazonaws.com/
+Protected S3 Bucket: http://authdb.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-db.s3.amazonaws.com/
+Protected S3 Bucket: http://dbauth.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-dev.s3.amazonaws.com/
+Protected S3 Bucket: http://devauth.s3.amazonaws.com/
+Protected S3 Bucket: http://dev-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://dl-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://dnsauth.s3.amazonaws.com/
+Protected S3 Bucket: http://authdocker.s3.amazonaws.com/
+Protected S3 Bucket: http://dockerauth.s3.amazonaws.com/
+Protected S3 Bucket: http://docker-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-docs.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-ec2.s3.amazonaws.com/
+Protected S3 Bucket: http://ec2auth.s3.amazonaws.com/
+Protected S3 Bucket: http://es-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-events.s3.amazonaws.com/
+Protected S3 Bucket: http://authfiles.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-files.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-firebase.s3.amazonaws.com/
+Protected S3 Bucket: http://firebase-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://authgateway.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-gateway.s3.amazonaws.com/
+Protected S3 Bucket: http://gcp-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://gitauth.s3.amazonaws.com/
+Protected S3 Bucket: http://github-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-gitlab.s3.amazonaws.com/
+Protected S3 Bucket: http://gitlab-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://hub-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-images.s3.amazonaws.com/
+Protected S3 Bucket: http://iot-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://jsauth.s3.amazonaws.com/
+Protected S3 Bucket: http://kube-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://authlogs.s3.amazonaws.com/
+Protected S3 Bucket: http://auth.logs.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-logs.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-mail.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-media.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-packages.s3.amazonaws.com/
+Protected S3 Bucket: http://authphotos.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-photos.s3.amazonaws.com/
+Protected S3 Bucket: http://authpro.s3.amazonaws.com/
+Protected S3 Bucket: http://proauth.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-prod.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-production.s3.amazonaws.com/
+Protected S3 Bucket: http://authproject.s3.amazonaws.com/
+OPEN S3 BUCKET: http://auth.public.s3.amazonaws.com/
+FILES:
+->http://auth.public.s3.amazonaws.com/auth.public
+Protected S3 Bucket: http://auth-public.s3.amazonaws.com/
+Protected S3 Bucket: http://authreports.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-resources.s3.amazonaws.com/
+Protected S3 Bucket: http://s3auth.s3.amazonaws.com/
+Protected S3 Bucket: http://s3-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-secret.s3.amazonaws.com/
+Protected S3 Bucket: http://secretauth.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-secrets.s3.amazonaws.com/
+Protected S3 Bucket: http://secureauth.s3.amazonaws.com/
+Protected S3 Bucket: http://secure-auth.s3.amazonaws.com/
+Protected S3 Bucket: http://authsecurity.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-security.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-services.s3.amazonaws.com/
+Protected S3 Bucket: http://auth-share.s3.amazonaws.com/
+Protected S3 Bucket: http://splunk-auth.s3.amazonaws.com/

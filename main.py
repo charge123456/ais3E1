@@ -3,32 +3,37 @@ from shodan import Shodan
 from nslookup import Nslookup
 import json
 import ipaddress
+# from cloud_enum
 app = Flask(__name__)
 
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
+    if request.method == 'POST':
+        ip_addr = request.form.get('url')
+
     return render_template('index.html')
 
 
 @app.route('/find_ip', methods=['GET', 'POST'])
 def find_ip():
     if request.method == 'POST':
-        a = request.form.get('ip')
-        print(a)
+        ip_addr = request.form.get('ip')
+        if ip_addr == '':
+            status = '請輸入 IP!'
         with open('ip-ranges.json') as f:
             data = json.load(f)
-
-        ip_range = []
+        status = 'Not Found!'
         for i in range(0, len(data['prefixes'])):
-            ip_range.append(data['prefixes'][i]['ip_prefix'])
-        for j in range(0, len(ip_range)):
-            if a == ipaddress.IPv4Network(ip_range[j]):
-                print(ip_range[j])
-                print(data['prefixes'][j]['service'])
-        else:
-            print('NO cloud')
-            return render_template('findservice.html')
+            if ipaddress.IPv4Address(ip_addr) in ipaddress.IPv4Network(data['prefixes'][i]['ip_prefix']):
+                region = data['prefixes'][i]['region']
+                service = data['prefixes'][i]['service']
+                network_border_group = data['prefixes'][i]['network_border_group']
+                status = 'Find!'
+                return render_template('findservice.html',ip_addr=ip_addr,region=region,service=service,network_border_group=network_border_group,status=status )
+        return render_template('findservice.html',ip_addr=ip_addr,status=status)
+    return render_template('findservice.html')
+
 
 
 @app.route('/shodan', methods=['GET', 'POST'])
@@ -42,7 +47,7 @@ def request_page_from_shodan():
         ports = ip['ports']
         ip = ip['ip_str']
 
-        return render_template('url.html', ip=ip, ports=ports)
+        return render_template('url.html',domain_name=domain_name, ip=ip, ports=ports)
     return render_template('url.html')
 
 

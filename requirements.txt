@@ -1,0 +1,6 @@
+dnspython
+requests
+requests_futures
+flask==2.0.1
+shadon
+nslookup
